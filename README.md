@@ -2,6 +2,10 @@
 
 This is a simple shopping cart application built with React.js that allows users to add items to the cart, remove them, and see their total. 
 
+## screenshot
+
+![image](https://github.com/Binary-Shade/react-product-cart/assets/115919438/e46f42af-9174-4ed7-bc41-e3eaf85a4e3e)
+
 ## Features
 
 - Add items to the cart
