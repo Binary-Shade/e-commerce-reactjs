@@ -9,7 +9,7 @@ const Cart = () => {
   useEffect(()=>{
     setTotal(
       cart.reduce((acc, curr)=>{
-        return acc + parseFloat(curr.price)
+        return acc + (parseFloat(curr.price) * curr.quantity )
       },0)
     )
     console.log(total);

@@ -1,4 +1,4 @@
-import React, { useContext } from 'react'
+import React, { useContext, useState } from 'react'
 import { RxCross2 } from "react-icons/rx";
 import { cartContext } from '../App';
 
@@ -17,6 +17,7 @@ const CartItems = ( {product} ) => {
         <p> {product.title.length > 20 ? product.title.slice(0, 20)+ '...' : product.title} </p> 
         <img src={product.image} alt={product.title} />
         <p className='price'> price : ${product.price} </p>
+        <p>Quantity : {product.quantity}</p>
         <button
             type='button'
             className='btn-remove'
