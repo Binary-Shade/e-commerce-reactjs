@@ -1,16 +1,18 @@
 # React Product Cart
 
-This is a simple shopping cart application built with React.js that allows users to add items to the cart, remove them, and see their total. 
+This simple shopping cart application built with React.js allows users to add items to the cart, remove them, and see their total. 
 
 ## screenshot
 
-![image](https://github.com/Binary-Shade/react-product-cart/assets/115919438/e46f42af-9174-4ed7-bc41-e3eaf85a4e3e)
+![image](https://github.com/Binary-Shade/react-product-cart/assets/115919438/e3457770-bd35-41ab-a8d6-6b1b461f689e)
 
 ## Features
 
 - Add items to the cart
 - Remove items from the cart
-- View total cost of items in the cart
+- View the total cost of items in the cart
+- filter items from the view
+- view the total quantity of products
 
 ## Project Setup
 
@@ -36,7 +38,7 @@ This is a simple shopping cart application built with React.js that allows users
 
 ### Adding Items to the Cart
 
-Browse through the list of available products. To add an item to your cart, simply click the "Add to Cart" button next to the desired product.
+Browse through the list of available products. To add an item to your cart, click the "Add to Cart" button next to the desired product.
 
 ### Removing Items from the Cart
 
@@ -44,7 +46,7 @@ In the cart, each item has a "Remove" button next to it. Click this button to re
 
 ### Viewing Total Cost
 
-The total cost of the items in your cart is displayed at the bottom of the cart. This updates automatically as you add or remove items.
+The total cost of the items in your cart is displayed at the bottom. This updates automatically as you add or remove items.
 
 ## Contributing
 
