@@ -4,7 +4,7 @@ This simple shopping cart application built with React.js allows users to add it
 
 ## screenshot
 
-![image](https://github.com/Binary-Shade/react-product-cart/assets/115919438/e3457770-bd35-41ab-a8d6-6b1b461f689e)
+![image](https://github.com/Binary-Shade/react-product-cart/assets/115919438/ecd04494-c088-4e0f-964f-064d3365a317)
 
 ## Features
 
