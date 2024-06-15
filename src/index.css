@@ -265,3 +265,15 @@ label {
   width: 28px;
   height: 28px;
 }
+
+.banner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1% 30%;
+}
+
+.slide-container {
+  width: 100%;
+  margin: 1%;
+}
